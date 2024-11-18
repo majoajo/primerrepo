@@ -1,5 +1,5 @@
 Primer repo de majo :)
-Grupo Chosen undead
+Grupo the darth pyths
 >python interpreter
 ![Screenshot 2024-11-06 075904](https://github.com/user-attachments/assets/44b4d60d-d68e-4a26-8a78-ee206b49bd23)
 >VS
